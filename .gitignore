@@ -1,0 +1,25 @@
+# Executáveis
+atividade_threads
+
+# Arquivos temporários gerados pelas threads
+thread_*_io.txt
+thread_*_misto.txt
+
+# Arquivos de objeto
+*.o
+*.obj
+
+# Arquivos de debug
+*.dSYM/
+*.su
+
+# Arquivos do editor
+*~
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
